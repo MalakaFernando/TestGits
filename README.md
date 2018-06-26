@@ -6,4 +6,4 @@
 </p>
 
 
-https://github.com/MalakaFernando/TestGits/wiki/How-to-Install/_edit
+https://github.com/MalakaFernando/TestGits/wiki/How-to-Install
